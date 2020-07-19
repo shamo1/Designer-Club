@@ -65,7 +65,7 @@ public class cartFragment extends Fragment {
         super.onStart();
         getTotalPrice();
         getCartList();
-
+        //Next Button Click Listener
         btnNext.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
