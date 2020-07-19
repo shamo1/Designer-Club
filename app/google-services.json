@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "885980129089",
+    "firebase_url": "https://designerclub-1b630.firebaseio.com",
+    "project_id": "designerclub-1b630",
+    "storage_bucket": "designerclub-1b630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885980129089:android:bbe0aae405217f2eb023c0",
+        "android_client_info": {
+          "package_name": "com.example.designerclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885980129089-7gpj9s62enc5ek1c6h0etu4j6lg0s6ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.designerclub",
+            "certificate_hash": "da90782563948c097cdd06dfabfa875b59f7a975"
+          }
+        },
+        {
+          "client_id": "885980129089-t7to1de7bavnv3auru1jaapvnu26sknj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.designerclub",
+            "certificate_hash": "1efa38c26909d29c6e6a4f0574fa6df329417e9b"
+          }
+        },
+        {
+          "client_id": "885980129089-igumeif8ln1jhn46jmtc5br6jf8j45kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.designerclub",
+            "certificate_hash": "eddd357719ec839f514f6ce53cba695b6d1e8811"
+          }
+        },
+        {
+          "client_id": "885980129089-pucrb0hugnn10vc91pkjeo6o3e4jt9kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.designerclub",
+            "certificate_hash": "8815845784a3c9caa07228e6be4e531a270409d8"
+          }
+        },
+        {
+          "client_id": "885980129089-ncdlkvcb3ch38mi7h76c6fsl89ndua4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBQMIqJ-zZAAu6tBG6mbBiDtymCxUbD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885980129089-ncdlkvcb3ch38mi7h76c6fsl89ndua4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885980129089:android:0f98ee50c87dd153b023c0",
+        "android_client_info": {
+          "package_name": "com.example.designerclubadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885980129089-0ak7r3r2vqs2e962vrrm3m9upble06j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.designerclubadmin",
+            "certificate_hash": "1efa38c26909d29c6e6a4f0574fa6df329417e9b"
+          }
+        },
+        {
+          "client_id": "885980129089-ncdlkvcb3ch38mi7h76c6fsl89ndua4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBQMIqJ-zZAAu6tBG6mbBiDtymCxUbD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885980129089-ncdlkvcb3ch38mi7h76c6fsl89ndua4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
